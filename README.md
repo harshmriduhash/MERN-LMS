@@ -1,2 +1,1 @@
-# MERN-LMS
- 
+This is a full-stack Learning Management System (LMS) built with the MERN stack: ReactJS for the interactive frontend, MongoDB for the flexible database, Express.js for the robust backend framework, and Node.js as the JavaScript runtime environment. This project allows users to manage and deliver educational content. 
